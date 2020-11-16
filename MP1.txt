@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-MP1
-=======
->>>>>>> parent of 3d06d8d... MP1.txt changed
